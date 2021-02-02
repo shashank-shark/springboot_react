@@ -9,7 +9,6 @@ import org.springframework.context.annotation.Bean;
 import owntryspringboot.domain.*;
 
 @SpringBootApplication
-@EnableAutoConfiguration
 public class OwntryspringbootApplication {
 
 	@Autowired
